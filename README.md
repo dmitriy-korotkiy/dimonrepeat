@@ -1,4 +1,4 @@
-# Twenty
+# Dimonrepeat
 
 ## What is it?
 Twenty is a small package to help you get location (city/region and lat/lon coordinates) and ISP data from an IP address or URL. Other utilities are provided, like a method that provides the approximate distance between two IP addresses. All of this can also be done by specifying the FQDN, like "stackabuse.com" or "google.com".

@@ -1,11 +1,11 @@
 {
-  "name": "dmitriykorotkiy",
+  "name": "dimonrepeat",
   "version": "0.0.1",
   "description": "dimon repeat",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://DmitriyKor86@bitbucket.org/dmitriykor86/dimonrepeatcli.git"
+    "url": "https://github.com/dmitriy-korotkiy/dimonrepeat.git"
   },
   "keywords": [
     "cli",
